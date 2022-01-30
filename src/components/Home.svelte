@@ -94,7 +94,6 @@
 	{:else if page == "reader"}
 		<!-- main reader -->
 		<Reader {subject} {year} {id} />
-
 	{:else}
 		<div>
 			<h1>404</h1>
